@@ -1,2 +1,1 @@
-# dsciGroup4
-Data Science 100 Group 4 Project
+# Group 4 Data Science 100 Project
